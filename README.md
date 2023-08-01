@@ -18,7 +18,7 @@ pip install -r requirements.txt
 Step 2: fill out the variables 
 
 1.)main.py
-TOKEN = "'OUR TELEGRAM TOKEN BOT'
+TOKEN = 'YOUR TELEGRAM TOKEN BOT'
 
 2.)bot_handlers.py and bot_handlers_country_proxy.py
 USER = ''
