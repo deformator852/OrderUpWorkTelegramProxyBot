@@ -14,6 +14,7 @@ Before proceeding, make sure you have the following prerequisites installed on y
 Step 1: Install dependencies
 
 To install dependencies, open your terminal or command prompt and run the following command:
+
 pip install -r requirements.txt
 
 
