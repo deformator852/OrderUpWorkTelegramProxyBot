@@ -25,15 +25,15 @@ TOKEN = 'YOUR TELEGRAM TOKEN BOT'
 
 2.)bot_handlers.py and bot_handlers_country_proxy.py
 
-USER = ''
+USER = ""
 
-PASSWORD = ''
+PASSWORD = ""
 
-HOST = ''
+HOST = ""
 
-PORT = ''
+PORT = ""
 
-DATABASE = ''
+DATABASE = ""
 
 3.)bot_handlers_country_proxy.py
 PROXY_API_KEY = 'YOUR API KEY FOR PROXY SERVICE'
