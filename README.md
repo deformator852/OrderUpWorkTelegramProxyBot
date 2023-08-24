@@ -6,7 +6,9 @@ Prerequisites
 Before proceeding, make sure you have the following prerequisites installed on your system:
 
 1.)Python (3.6 or higher)
+
 2.)Pip (Python package manager)
+
 3.)PostgreSQL
 
 Step 1: Install dependencies
