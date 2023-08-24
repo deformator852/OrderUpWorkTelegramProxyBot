@@ -23,10 +23,15 @@ Step 2: fill out the variables
 TOKEN = 'YOUR TELEGRAM TOKEN BOT'
 
 2.)bot_handlers.py and bot_handlers_country_proxy.py
+
 USER = ''
+
 PASSWORD = ''
+
 HOST = ''
+
 PORT = ''
+
 DATABASE = ''
 
 3.)bot_handlers_country_proxy.py
